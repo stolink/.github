@@ -42,9 +42,9 @@
 |------|------|
 | **[stolink_frontend](https://github.com/stolink/stolink_frontend)**             | 에디터 서비스 stolink의 프론트엔드 레포지토리 |
 | **[stolink_spring](https://github.com/stolink/stolink_spring)**                 | 에디터 서비스 stolink의 백엔드 레포지토리 |
-| **[stolink_fastapi_agent](https://github.com/stolink/stolink_fastapi_agent)**   | stolink의 소설 분석 레포지토리 |
-| **[stolink_fastapi_image](https://github.com/stolink/stolink_fastapi_image)**   | stolink의 이미지 생성 레포지토리 |
-| **[stolink-chat](https://github.com/stolink/stolink-chat)**                     | stolink의 챗봇 레포지토리 |
+| **[stolink_fastapi_agent](https://github.com/stolink/stolink_fastapi_agent)**   | 에디터 서비스 stolink의 소설 분석 레포지토리 |
+| **[stolink_fastapi_image](https://github.com/stolink/stolink_fastapi_image)**   | 에디터 서비스 stolink의 이미지 생성 레포지토리 |
+| **[stolink-chat](https://github.com/stolink/stolink-chat)**                     | 에디터 서비스 stolink의 챗봇 레포지토리 |
 | **[storead_frontend](https://github.com/stolink/storead_frontend)**             | 독자 플랫폼 storead의 프론트엔드 레포지토리 |
 | **[storead_spring](https://github.com/stolink/storead_spring)**                 | 독자 플랫폼 storead의 백엔드 레포지토리 |
 | **[stolink_infrastructure](https://github.com/stolink/stolink_infrastructure)** | terraform 코드를 관리하는 레포지토리 |
