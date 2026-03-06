@@ -74,15 +74,7 @@
 
 ---
 
-### 시연 영상
-
-추후 추가
-
----
-
 ### 발표 영상
 
-
-추후 추가
-
+https://www.youtube.com/watch?v=rGBStmZVAa8&t=6s
 
