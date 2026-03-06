@@ -76,5 +76,5 @@
 
 ### 발표 영상
 
-https://www.youtube.com/watch?v=rGBStmZVAa8&t=6s
+[![AI Diary 데모 영상](https://img.youtube.com/vi/rGBStmZVAa8/0.jpg)](https://www.youtube.com/watch?v=rGBStmZVAa8)
 
