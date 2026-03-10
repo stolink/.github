@@ -136,7 +136,19 @@ StoLink 에디터에서 바로 StoRead로 작품을 배포할 수 있습니다. 
 작가의 작품 관리를 지원합니다.
 ![작품 관리](https://github.com/user-attachments/assets/7538badd-734d-4181-8498-2eebe0fcc1cf)
 
-### 💳 결제 구현
+### 💳 결제 및 정산 시스템
+
+StoRead 플랫폼 내에서 원활한 수익 창출과 결제를 위해 **토스페이먼츠(Toss Payments)**를 연동한 결제 및 정산 시스템을 구축했습니다.
+
+**1. 크레딧 패스 구매** 사용자는 작품 열람에 필요한 크레딧을 다양한 패키지 형태로 충전할 수 있으며, 패키지에 따라 보너스 크레딧이 제공됩니다.
+![크레딧 구매](https://github.com/user-attachments/assets/3823b2a8-dad3-4833-a9cf-e559faf97dc1)
+
+**2. 안전하고 다양한 간편 결제** 토스페이먼츠 결제 위젯을 연동하여 카카오페이, 페이코 등 주요 간편결제 서비스와 다양한 신용/체크카드 결제를 안전하고 편리하게 지원합니다.
+![안전하고 다양한 간편 결제 (Toss Payments)](https://github.com/user-attachments/assets/42fe8000-4409-4b53-b867-fe7fed3682a7)
+
+**3. 작가 정산 대시보드 (Author Studio)** 작가가 자신의 작품으로 창출한 수익을 직관적으로 관리할 수 있는 전용 대시보드입니다. 누적 수익, 월별 수익 추이, 작품별 수익 통계를 한눈에 파악하고 간편하게 정산을 요청할 수 있습니다.
+![작가 정산 대시보드 (Author Studio)](https://github.com/user-attachments/assets/cee4a8bd-6df9-4158-a6a7-ea6f8c2222b8)
+
 ---
 
 ## 📁 레포지토리 안내
