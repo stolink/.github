@@ -6,10 +6,6 @@
 
 ---
 
-### 웹페이지 주소
-- #### https://stolink.link
-- #### https://storead.stolink.link
-
 ### 개발 기간
 - 2025년 12월 12일 ~ 2026년 1월 24일 (약 5주)
 
